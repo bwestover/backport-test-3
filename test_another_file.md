@@ -1,3 +1,2 @@
 ## Another File 
-
-Yet another test line.
+Generate conflict
