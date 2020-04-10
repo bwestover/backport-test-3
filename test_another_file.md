@@ -1,3 +1,3 @@
-## Another File 
+## new title
 
-Change it again.
+New contents generating a conflict
