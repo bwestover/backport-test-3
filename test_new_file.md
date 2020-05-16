@@ -1,3 +1,3 @@
 ### A new file to test backports!
 
-A new line.
+This will generate a merge conflict.
