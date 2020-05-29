@@ -4,5 +4,9 @@ puts "hello test file"
 
 # some new lines
 def new_thing
-  "I'm a method!"
+  "I'm a changed method!"
+end
+
+def another_one
+  "Yay"
 end
